@@ -1,0 +1,17 @@
+.MainBio {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  /* border: 2px solid red; */
+  background-color: lightyellow;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+}
